@@ -1,2 +1,4 @@
-# material-design-icons-font
-Just material design icons as webfont. borrowed from materializecss.com
+# Material Design Icons WebFont
+Google material design icons as webfont. 
+
+borrowed from materializecss.com
